@@ -64,6 +64,8 @@ ts-node|[TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)|<img src="ht
 npm Intellisense|[ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense)|<img src="https://img.shields.io/github/stars/ChristianKohler/NpmIntellisense?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ChristianKohler/NpmIntellisense?style=for-the-badge&label=" />
 
 # Package Manager
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
 pnpm|[pnpm/pnpm](https://github.com/pnpm/pnpm)|<img src="https://img.shields.io/github/stars/pnpm/pnpm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pnpm/pnpm?style=for-the-badge&label=" />|
 Yarn |[yarnpkg/berry](https://github.com/yarnpkg/berry)|<img src="https://img.shields.io/github/stars/yarnpkg/berry?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/yarnpkg/berry?style=for-the-badge&label=" />|
 
