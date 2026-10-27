@@ -68,6 +68,11 @@ Name| Address | Star| Last Update
 -|-|-|-|
 Prisma|[prisma/prisma](https://github.com/prisma/prisma)|<img src="https://img.shields.io/github/stars/prisma/prisma?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/prisma/prisma?style=for-the-badge&label=" />|
 
+# Schema
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Valdi|[colinhacks/zod](https://github.com/colinhacks/zod)|<img src="https://img.shields.io/github/stars/colinhacks/zod?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/colinhacks/zod?style=for-the-badge&label=" />|
+
 
 # UI Framework 
 Name| Address | Star| Last Update|Desc
