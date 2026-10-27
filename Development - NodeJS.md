@@ -63,6 +63,10 @@ nodemon|[remy/nodemon](https://github.com/remy/nodemon)|<img src="https://img.sh
 ts-node|[TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)|<img src="https://img.shields.io/github/stars/TypeStrong/ts-node?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TypeStrong/ts-node?style=for-the-badge&label=" />
 npm Intellisense|[ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense)|<img src="https://img.shields.io/github/stars/ChristianKohler/NpmIntellisense?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ChristianKohler/NpmIntellisense?style=for-the-badge&label=" />
 
+# Package Manager
+pnpm|[pnpm/pnpm](https://github.com/pnpm/pnpm)|<img src="https://img.shields.io/github/stars/pnpm/pnpm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pnpm/pnpm?style=for-the-badge&label=" />|
+Yarn |[yarnpkg/berry](https://github.com/yarnpkg/berry)|<img src="https://img.shields.io/github/stars/yarnpkg/berry?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/yarnpkg/berry?style=for-the-badge&label=" />|
+
 # ORM
 Name| Address | Star| Last Update
 -|-|-|-|
@@ -71,7 +75,7 @@ Prisma|[prisma/prisma](https://github.com/prisma/prisma)|<img src="https://img.s
 # Schema
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Valdi|[colinhacks/zod](https://github.com/colinhacks/zod)|<img src="https://img.shields.io/github/stars/colinhacks/zod?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/colinhacks/zod?style=for-the-badge&label=" />|
+zod|[colinhacks/zod](https://github.com/colinhacks/zod)|<img src="https://img.shields.io/github/stars/colinhacks/zod?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/colinhacks/zod?style=for-the-badge&label=" />|
 
 
 # UI Framework 
