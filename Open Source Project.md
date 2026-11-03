@@ -550,12 +550,6 @@ Name| Address | Star| Last Update|Desc
 Nginx UI|[0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)|<img src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/0xJacky/nginx-ui?style=for-the-badge&label=" />|
 Nginx Proxy Manager|[NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)|<img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/NginxProxyManager/nginx-proxy-manager?style=for-the-badge&label=" />|
 
-# NodeJS Version Manager
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-Fast Node Manager |[Schniz/fnm](https://github.com/Schniz/fnm)|<img src="https://img.shields.io/github/stars/Schniz/fnm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Schniz/fnm?style=for-the-badge&label=" />|
-Node Version Manager  |[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|
-
 
 # OCR
 Name| Respository Address | Star| Last Update|Desc
@@ -762,6 +756,9 @@ vfox|[version-fox/vfox](https://github.com/version-fox/vfox)|<img src="https://i
 asdf|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/asdf-vm/asdf?style=for-the-badge&label=" />|
 nvm|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|Node Version Manager
 NVM for Windows|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge&label=" />|Node Version Manager
+Fast Node Manager |[Schniz/fnm](https://github.com/Schniz/fnm)|<img src="https://img.shields.io/github/stars/Schniz/fnm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Schniz/fnm?style=for-the-badge&label=" />|Node Version Manager
+Node Version Manager  |[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|Node Version Manager
+
 
 # Video Editing‌
 Name| Respository Address | Star| Last Update|Desc
