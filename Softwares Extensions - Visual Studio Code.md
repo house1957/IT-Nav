@@ -18,7 +18,7 @@ Prettier|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?
 Name| Address |Desc
 -|-|-|
 GitLens|[GitLens — Git Supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
-Git History|[Git Histor](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)||
+Git History|[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)||
 
 # Lint
 Name| Address |Desc
