@@ -1,10 +1,6 @@
 Extension Download: [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 
 
-# Git
-Name| Address |Desc
--|-|-|
-GitLens|[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
 
 # Nav
 Name| Address | Star| Last Update|Desc
@@ -20,3 +16,7 @@ CodeGeeX|[github.com/THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)|<img s
 Prettier - Code formatter|[github.com/prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)|<img src="https://img.shields.io/github/stars/prettier/prettier-vscode?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/prettier/prettier-vscode?style=for-the-badge" />
 
 
+# Git
+Name| Address |Desc
+-|-|-|
+GitLens|[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
