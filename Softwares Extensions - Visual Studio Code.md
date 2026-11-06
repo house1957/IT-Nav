@@ -1,12 +1,8 @@
 Extension Download: [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 
-
-
-# Nav
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Awesome VSCode|[github.com/viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)|<img src="https://img.shields.io/github/stars/viatsko/awesome-vscode?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/viatsko/awesome-vscode?style=for-the-badge" />|
-
 
 Name| Address | Star| Last Update
 -|-|-|-|
@@ -17,7 +13,6 @@ CodeGeeX|[github.com/THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)|<img s
 Name| Address | Desc
 -|-|-|
 Prettier - Code Formatter|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
-
 
 # Git
 Name| Address |Desc
