@@ -16,7 +16,7 @@ CodeGeeX|[github.com/THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)|<img s
 # Code Formatter
 Name| Address | Desc
 -|-|-|
-Prettier - Code Formatter|[Prettier - Code Formatter]([https://github.com/prettier/prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode))|
+Prettier - Code Formatter|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
 
 
 # Git
