@@ -12,9 +12,9 @@ CodeGeeX|[github.com/THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)|<img s
 # Code Formatter
 Name| Address | Desc
 -|-|-|
-Prettier - Code Formatter|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
+Prettier|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
 
 # Git
 Name| Address |Desc
 -|-|-|
-GitLens|[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
+GitLens|[GitLens — Git Supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
