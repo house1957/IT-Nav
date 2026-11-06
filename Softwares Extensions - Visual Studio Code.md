@@ -18,3 +18,9 @@ Prettier|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?
 Name| Address |Desc
 -|-|-|
 GitLens|[GitLens — Git Supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
+
+
+# Lint
+Name| Address |Desc
+-|-|-|
+TSLint|[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)|
