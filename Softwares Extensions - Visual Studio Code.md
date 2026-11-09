@@ -25,4 +25,4 @@ Git History|[Git History](https://marketplace.visualstudio.com/items?itemName=do
 Name| Address |Desc
 -|-|-|
 TSLint|[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)|
-TSLint|[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)|
+ESLint|[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)|
