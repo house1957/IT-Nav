@@ -9,6 +9,12 @@ Name| Address | Desc
 -|-|-|
 Prettier|[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)|
 
+# Error
+Name| Address | Desc
+-|-|-|
+Error Lens|[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)|
+
+
 # Git
 Name| Address |Desc
 -|-|-|
