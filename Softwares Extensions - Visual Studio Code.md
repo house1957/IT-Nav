@@ -21,7 +21,8 @@ Name| Address |Desc
 GitLens|[GitLens — Git Supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)||
 Git History|[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)||
 
-# Lint
+# TS
 Name| Address |Desc
 -|-|-|
 TSLint|[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)|
+TSLint|[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)|
