@@ -1,14 +1,16 @@
 [Microsoft-Edge-Extensions-Home](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home)
 
+# Outlook
+Name| Address |Desc
+-|-|-|
+Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://microsoftedge.microsoft.com/addons/detail/notifications-and-more-fo/nempggmeahkmicfiigkcdpnnkgnhknhb)|
+
+
 # Tampermonkey
 Name| Address |Desc
 -|-|-|
 Tampermonkey|[Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)|
 
-# Outlook
-Name| Address |Desc
--|-|-|
-Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://microsoftedge.microsoft.com/addons/detail/notifications-and-more-fo/nempggmeahkmicfiigkcdpnnkgnhknhb)|
 
 
 # Teams
