@@ -6,6 +6,11 @@ Name| Address |Desc
 Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://microsoftedge.microsoft.com/addons/detail/notifications-and-more-fo/nempggmeahkmicfiigkcdpnnkgnhknhb)|
 
 
+# Emoji Keyboard
+Name| Address |Desc
+-|-|-|
+Emoji Keyboard|[Emoji Keyboard](https://microsoftedge.microsoft.com/addons/detail/emoji-keyboard/migmbeklhhfnfklhpokmmdgnlgaglemk)|
+
 # Tampermonkey
 Name| Address |Desc
 -|-|-|
