@@ -434,6 +434,14 @@ barrier|[debauchee/barrier](https://github.com/debauchee/barrier)|<img src="http
 Deskflow|[deskflow/deskflow](https://github.com/deskflow/deskflow)|<img src="https://img.shields.io/github/stars/deskflow/deskflow?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/deskflow/deskflow?style=for-the-badge&label=" />|
 Deskreen|[pavlobu/deskreen](https://github.com/pavlobu/deskreen)|<img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pavlobu/deskreen?style=for-the-badge&label=" />| Screen
 
+# Language
+English
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+TypeWords |[zyronon/TypeWords](https://github.com/zyronon/TypeWords)|<img src="https://img.shields.io/github/stars/zyronon/TypeWords?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zyronon/TypeWords?style=for-the-badge&label=" />|
+Qingjian |[qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)|<img src="https://img.shields.io/github/stars/qingjian-team/qingjian?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/qingjian-team/qingjian?style=for-the-badge&label=" />|
+
+
 
 # Lock
 Name| Respository Address | Star| Last Update|Desc
