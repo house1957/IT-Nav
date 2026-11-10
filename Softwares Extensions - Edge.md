@@ -8,7 +8,7 @@ Tampermonkey|[Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/ta
 # Teams
 Name| Address |Desc
 -|-|-|
-Teams Assist|[Teams Assist](https://microsoftedge.microsoft.com/addons/detail/teams-assist/acodniipdonleinocjlckgnekpfajodo)|
+Work Hub for Teams|[Work Hub for Teams](https://microsoftedge.microsoft.com/addons/detail/work-hub-for-teams/nlbnhijdmapeoephdniekfboafkgnkbc)|
 
 Status
 Name| Address |Desc
