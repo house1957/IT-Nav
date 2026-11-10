@@ -738,14 +738,14 @@ immersive-translate  |[immersive-translate/immersive-translate](https://github.c
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 IPTV  |[iptv-org/iptv](https://github.com/iptv-org/iptv)|<img src="https://img.shields.io/github/stars/iptv-org/iptv?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/iptv-org/iptv?style=for-the-badge&label=" />|
-LunaTV |[MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)|<img src="https://img.shields.io/github/stars/MoonTechLab/LunaTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/MoonTechLab/LunaTV?style=for-the-badge&label=" />|
 AudioVisual|[RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual)|<img src="https://img.shields.io/github/stars/RemotePinee/AudioVisual?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/RemotePinee/AudioVisual?style=for-the-badge&label=" />|
 
-Online
+Online TV
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-MoonTV|[senshinya/MoonTV](https://github.com/senshinya/MoonTV)|<img src="https://img.shields.io/github/stars/senshinya/MoonTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/senshinya/MoonTV?style=for-the-badge&label=" />|Online TV
-LibreTV |[LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)|<img src="https://img.shields.io/github/stars/LibreSpark/LibreTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/LibreSpark/LibreTV?style=for-the-badge&label=" />|Online TV
+MoonTV|[senshinya/MoonTV](https://github.com/senshinya/MoonTV)|<img src="https://img.shields.io/github/stars/senshinya/MoonTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/senshinya/MoonTV?style=for-the-badge&label=" />|
+LunaTV |[MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)|<img src="https://img.shields.io/github/stars/MoonTechLab/LunaTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/MoonTechLab/LunaTV?style=for-the-badge&label=" />|
+LibreTV |[LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)|<img src="https://img.shields.io/github/stars/LibreSpark/LibreTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/LibreSpark/LibreTV?style=for-the-badge&label=" />|
 
 
 
