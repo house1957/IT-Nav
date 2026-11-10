@@ -27,3 +27,8 @@ Status
 Name| Address |Desc
 -|-|-|
 Teams Always On|[Teams Always On](https://microsoftedge.microsoft.com/addons/detail/teams-always-on/ecimekafmfjlocmjddmlemkoeonkjfbi)|
+
+# Theme
+Name| Address |Desc
+-|-|-|
+Dark Reader|[Dark Reader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)|
