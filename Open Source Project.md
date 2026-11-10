@@ -254,6 +254,14 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge&label=" />| Automating Update Container 
 
+Docker Linux App
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+linuxserver app |[linuxserver/docker-documentation](https://github.com/linuxserver/docker-documentation)|<img src="https://img.shields.io/github/stars/linuxserver/docker-documentation?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/linuxserver/docker-documentation?style=for-the-badge&label=" />|
+Selkies |[selkies-project/selkies](https://github.com/selkies-project/selkies)|<img src="https://img.shields.io/github/stars/selkies-project/selkies?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/selkies-project/selkies?style=for-the-badge&label=" />|
+
+
+
 Docker Compose
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
