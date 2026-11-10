@@ -739,6 +739,7 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 IPTV  |[iptv-org/iptv](https://github.com/iptv-org/iptv)|<img src="https://img.shields.io/github/stars/iptv-org/iptv?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/iptv-org/iptv?style=for-the-badge&label=" />|
 AudioVisual|[RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual)|<img src="https://img.shields.io/github/stars/RemotePinee/AudioVisual?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/RemotePinee/AudioVisual?style=for-the-badge&label=" />|
+StudyOnTV   |[chadyi/StudyOnTV](https://github.com/chadyi/StudyOnTV)|<img src="https://img.shields.io/github/stars/chadyi/StudyOnTV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chadyi/StudyOnTV?style=for-the-badge&label=" />|
 
 Online TV
 Name| Address | Star| Last Update|Desc
