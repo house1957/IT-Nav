@@ -126,7 +126,7 @@ MD3 Windows|[Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows)|<i
 Seelen UI|[eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)|<img src="https://img.shields.io/github/stars/eythaann/Seelen-UI?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/eythaann/Seelen-UI?style=for-the-badge&label=" />|
 GeekDesk |[home-assistant/core](https://github.com/BookerLiu/GeekDesk)|<img src="https://img.shields.io/github/stars/home-assistant/core?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/home-assistant/core?style=for-the-badge&label=" />|
 WitchDrawer|[witchscottishfoldcat/WitchDrawer](https://github.com/witchscottishfoldcat/WitchDrawer)|<img src="https://img.shields.io/github/stars/witchscottishfoldcat/WitchDrawer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/witchscottishfoldcat/WitchDrawer?style=for-the-badge&label=" />|
-
+Daozai|[Renly1994/xiaotang-daozai](https://github.com/Renly1994/xiaotang-daozai)|<img src="https://img.shields.io/github/stars/Renly1994/xiaotang-daozai?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Renly1994/xiaotang-daozai?style=for-the-badge&label=" />|
 
 # Dock Bar
 Name| Address | Star| Last Update
