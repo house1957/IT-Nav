@@ -384,7 +384,7 @@ Name| Address | Desc
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 MooTool|[rememberber/MooTool](https://github.com/rememberber/MooTool)|<img src="https://img.shields.io/github/stars/rememberber/MooTool?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rememberber/MooTool?style=for-the-badge&label=" />|
-PowerToys|[microsoft/PowerToysl](https://github.com/microsoft/PowerToys)|<img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/PowerToys?style=for-the-badge&label=" />|
+PowerToys|[microsoft/PowerToys](https://github.com/microsoft/PowerToys)|<img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/PowerToys?style=for-the-badge&label=" />|
 OFGB |[xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)|<img src="https://img.shields.io/github/stars/xM4ddy/OFGB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/xM4ddy/OFGB?style=for-the-badge&label=" />|Close Ad
 
 Windows
