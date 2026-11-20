@@ -30,3 +30,4 @@ Prompt Optimizer |[linshenkx/prompt-optimizer](https://github.com/linshenkx/prom
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Oh Story|[zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)|<img src="https://img.shields.io/github/stars/zenstory-ai/oh-story-claudecode?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zenstory-ai/oh-story-claudecode?style=for-the-badge&label=" />|
+Marketing Skills|[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)|<img src="https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreyhaines31/marketingskills?style=for-the-badge&label=" />|
