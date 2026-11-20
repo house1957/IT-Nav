@@ -25,3 +25,8 @@ agent-desktop|[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-d
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Prompt Optimizer |[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)|<img src="https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/linshenkx/prompt-optimizer?style=for-the-badge&label=" />|
+
+# Skill
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Oh Story|[zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)|<img src="https://img.shields.io/github/stars/zenstory-ai/oh-story-claudecode?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zenstory-ai/oh-story-claudecode?style=for-the-badge&label=" />|
