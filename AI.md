@@ -29,5 +29,6 @@ Prompt Optimizer |[linshenkx/prompt-optimizer](https://github.com/linshenkx/prom
 # Skill
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
+skills|[vercel-labs/skills](https://github.com/vercel-labs/skills)|<img src="https://img.shields.io/github/stars/vercel-labs/skills?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/vercel-labs/skills?style=for-the-badge&label=" />|
 Oh Story|[zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode)|<img src="https://img.shields.io/github/stars/zenstory-ai/oh-story-claudecode?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zenstory-ai/oh-story-claudecode?style=for-the-badge&label=" />|
 Marketing Skills|[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)|<img src="https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreyhaines31/marketingskills?style=for-the-badge&label=" />|
