@@ -10,7 +10,6 @@ Kiri |[libracoder/kiri](https://github.com/libracoder/kiri)|<img src="https://im
 Podman|[containers/podman](https://github.com/containers/podman)|<img src="https://img.shields.io/github/stars/containers/podman?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containers/podman?style=for-the-badge&label=" />|
 Rainbond|[goodrain/rainbond](https://github.com/goodrain/rainbond)|<img src="https://img.shields.io/github/stars/goodrain/rainbond?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/goodrain/rainbond?style=for-the-badge&label=" />|
 containerd |[containerd/containerd](https://github.com/containerd/containerd)|<img src="https://img.shields.io/github/stars/containerd/containerd?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containerd/containerd?style=for-the-badge&label=" />|
-Rancher|[rancher/rancher](https://github.com/rancher/rancher/)|<img src="https://img.shields.io/github/stars/rancher/rancher?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rancher/rancher?style=for-the-badge&label=" />|
 
 
 # Android
@@ -96,10 +95,12 @@ k3d |[k3d-io/k3d](https://github.com/k3d-io/k3d)|<img src="https://img.shields.i
 # K8S
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
+Rancher|[rancher/rancher](https://github.com/rancher/rancher/)|<img src="https://img.shields.io/github/stars/rancher/rancher?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rancher/rancher?style=for-the-badge&label=" />|
 minikube|[github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)|<img src="https://img.shields.io/github/stars/kubernetes/minikube?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubernetes/minikube?style=for-the-badge&label=" />|
 k8s_PaaS|[github.com/ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|<img src="https://img.shields.io/github/stars/ben1234560/k8s_PaaS?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ben1234560/k8s_PaaS?style=for-the-badge&label=" />|
 Sealos|[github.com/labring/sealos](https://github.com/labring/sealos)|<img src="https://img.shields.io/github/stars/labring/sealos?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/labring/sealos?style=for-the-badge&label=" />|
 KubeSphere |[github.com/kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)|<img src="https://img.shields.io/github/stars/kubesphere/kubesphere?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubesphere/kubesphere?style=for-the-badge&label=" />|
+
 
 # Podman
 Name| Address | Star| Last Update|Desc
