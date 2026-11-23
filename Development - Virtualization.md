@@ -72,15 +72,16 @@ Dockge|[louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com
 docker-autocompose|[Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)|<img src="https://img.shields.io/github/stars/Red5d/docker-autocompose?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Red5d/docker-autocompose?style=for-the-badge&label=" />|Generates a docker-compose.yaml
 Docker Compose Maker |[ajnart/dcm](https://github.com/ajnart/dcm)|<img src="https://img.shields.io/github/stars/ajnart/dcm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ajnart/dcm?style=for-the-badge&label=" />|
 
-# Docker - Image
+# Docker Image
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 WUD|[getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud](https://hub.docker.com/r/getwud/wud)|<img src="https://img.shields.io/github/stars/getwud/wud?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/getwud/wud?style=for-the-badge&label=" />|Image New Version Notification
 Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/crazymax/diun](https://hub.docker.com/r/crazymax/diun)|<img src="https://img.shields.io/github/stars/crazy-max/diun?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/crazy-max/diun?style=for-the-badge&label=" />|Image New Version Notification
 
-# Docker - UI
+# Docker UI
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
+Arcane |[getarcaneapp/arcane](https://github.com/getarcaneapp/arcane?)|<img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/getarcaneapp/arcane?style=for-the-badge&label=&" />|
 Portainer|[portainer/portainer](https://github.com/portainer/portainer)<br/>[hub.docker.com/r/portainer/portainer](https://hub.docker.com/r/portainer/portainer)|<img src="https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/portainer/portainer?style=for-the-badge&label=" />|
 Yacht|[SelfhostedPro/Yacht](https://github.com/selfhostedpro/yacht)<br/>[hub.docker.com/r/selfhostedpro/yacht](https://hub.docker.com/r/SelfhostedPro/Yacht)|<img src="https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/SelfhostedPro/Yacht?style=for-the-badge&label=" />|
 DPanel|[donknap/dpanel](https://github.com/donknap/dpanel)|<img src="https://img.shields.io/github/stars/donknap/dpanel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/donknap/dpanel?style=for-the-badge&label=" />|
