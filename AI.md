@@ -1,6 +1,7 @@
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Free Claude Code |[alishahryar1/free-claude-code](https://github.com/alishahryar1/free-claude-code?)|<img src="https://img.shields.io/github/stars/alishahryar1/free-claude-code?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/alishahryar1/free-claude-code?style=for-the-badge&label=&" />|
+FreeLLMAPI |[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi?)|<img src="https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/tashfeenahmed/freellmapi?style=for-the-badge&label=&" />|
 
 
 
