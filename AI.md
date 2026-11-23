@@ -21,6 +21,13 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 agent-desktop|[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop?)|<img src="https://img.shields.io/github/stars/vercel-labs/agent-desktop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/vercel-labs/agent-desktop?style=for-the-badge&label=&" />|
 
+
+# Code
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Trail Code |[trailhq/Trail-Code](https://github.com/trailhq/Trail-Code?)|<img src="https://img.shields.io/github/stars/trailhq/Trail-Code?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/trailhq/Trail-Code?style=for-the-badge&label=&" />|
+
+
 # Prompt
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
