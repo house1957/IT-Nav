@@ -297,6 +297,7 @@ AB Download Manager|[amir1376/ab-download-manager](https://github.com/amir1376/a
 Motrix|[agalwood/Motrix](https://github.com/agalwood/Motrix)|<img src="https://img.shields.io/github/stars/agalwood/Motrix?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/agalwood/Motrix?style=for-the-badge&label=" />| 
 Varia  |[giantpinkrobots/varia](https://github.com/giantpinkrobots/varia)|<img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/giantpinkrobots/varia?style=for-the-badge&label=" />|
 yt-dlp |[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp?)|<img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/yt-dlp/yt-dlp?style=for-the-badge&label=&" />|
+Ghost-Downloader-3 |[XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3?)|<img src="https://img.shields.io/github/stars/XiaoYouChR/Ghost-Downloader-3?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/XiaoYouChR/Ghost-Downloader-3?style=for-the-badge&label=&" />|
 
 
 Media （Image & Viode）
