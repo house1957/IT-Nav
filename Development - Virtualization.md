@@ -19,23 +19,7 @@ Name| Address | Star| Last Update
 -|-|-|-|
 docker-android|[github.com/budtmo/docker-android](https://github.com/budtmo/docker-android)|<img src="https://img.shields.io/github/stars/budtmo/docker-android?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/budtmo/docker-android?style=for-the-badge&label=" />
 
-# Hub
-Name| Address|Desc
--|-|-|
-DockerHub|[hub.docker.com](https://hub.docker.com)|
 
-Name| Address | Star| Last Update
--|-|-|-|
-dockge|[github.com/louislam/dockge](https://github.com/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge&label=" />
-LazyDocker|[github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)|<img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jesseduffield/lazydocker?style=for-the-badge&label=" />
-
-# K8S
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-minikube|[github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)|<img src="https://img.shields.io/github/stars/kubernetes/minikube?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubernetes/minikube?style=for-the-badge&label=" />|
-k8s_PaaS|[github.com/ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|<img src="https://img.shields.io/github/stars/ben1234560/k8s_PaaS?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ben1234560/k8s_PaaS?style=for-the-badge&label=" />|
-Sealos|[github.com/labring/sealos](https://github.com/labring/sealos)|<img src="https://img.shields.io/github/stars/labring/sealos?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/labring/sealos?style=for-the-badge&label=" />|
-KubeSphere |[github.com/kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)|<img src="https://img.shields.io/github/stars/kubesphere/kubesphere?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubesphere/kubesphere?style=for-the-badge&label=" />|
 
 
 # API Manager
@@ -58,14 +42,14 @@ Name| Address | Star| Last Update| Desc
 Redis|[hub.docker.com/_/redis](https://hub.docker.com/_/redis)|||Cache
 MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|||
 
-# Docker - Container
+# Docker Container
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge&label=" />|Automating Docker Container Base Image Updates
 docker-updater|[liquidguru/docker-updater](https://github.com/liquidguru/docker-updater)|<img src="https://img.shields.io/github/stars/liquidguru/docker-updater?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/liquidguru/docker-updater?style=for-the-badge&label=" />|
 
 
-# Docker - Compose
+# Docker Compose
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Dockge|[louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com/r/louislam/dockge](https://hub.docker.com/r/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge&label=" />|Docker Compose UI Manager
@@ -78,6 +62,17 @@ Name| Address | Star| Last Update|Desc
 WUD|[getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud](https://hub.docker.com/r/getwud/wud)|<img src="https://img.shields.io/github/stars/getwud/wud?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/getwud/wud?style=for-the-badge&label=" />|Image New Version Notification
 Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/crazymax/diun](https://hub.docker.com/r/crazymax/diun)|<img src="https://img.shields.io/github/stars/crazy-max/diun?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/crazy-max/diun?style=for-the-badge&label=" />|Image New Version Notification
 
+# Docker Hub
+Name| Address|Desc
+-|-|-|
+DockerHub|[hub.docker.com](https://hub.docker.com)|
+
+Name| Address | Star| Last Update
+-|-|-|-|
+dockge|[github.com/louislam/dockge](https://github.com/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge&label=" />
+LazyDocker|[github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)|<img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jesseduffield/lazydocker?style=for-the-badge&label=" />
+
+
 # Docker UI
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
@@ -85,6 +80,15 @@ Arcane |[getarcaneapp/arcane](https://github.com/getarcaneapp/arcane?)|<img src=
 Portainer|[portainer/portainer](https://github.com/portainer/portainer)<br/>[hub.docker.com/r/portainer/portainer](https://hub.docker.com/r/portainer/portainer)|<img src="https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/portainer/portainer?style=for-the-badge&label=" />|
 Yacht|[SelfhostedPro/Yacht](https://github.com/selfhostedpro/yacht)<br/>[hub.docker.com/r/selfhostedpro/yacht](https://hub.docker.com/r/SelfhostedPro/Yacht)|<img src="https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/SelfhostedPro/Yacht?style=for-the-badge&label=" />|
 DPanel|[donknap/dpanel](https://github.com/donknap/dpanel)|<img src="https://img.shields.io/github/stars/donknap/dpanel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/donknap/dpanel?style=for-the-badge&label=" />|
+
+
+# K8S
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+minikube|[github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)|<img src="https://img.shields.io/github/stars/kubernetes/minikube?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubernetes/minikube?style=for-the-badge&label=" />|
+k8s_PaaS|[github.com/ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|<img src="https://img.shields.io/github/stars/ben1234560/k8s_PaaS?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ben1234560/k8s_PaaS?style=for-the-badge&label=" />|
+Sealos|[github.com/labring/sealos](https://github.com/labring/sealos)|<img src="https://img.shields.io/github/stars/labring/sealos?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/labring/sealos?style=for-the-badge&label=" />|
+KubeSphere |[github.com/kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)|<img src="https://img.shields.io/github/stars/kubesphere/kubesphere?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubesphere/kubesphere?style=for-the-badge&label=" />|
 
 
 # Mac
