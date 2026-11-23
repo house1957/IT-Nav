@@ -140,8 +140,7 @@ DataEase|[dataease/dataease](https://github.com/dataease/dataease)|<img src="htt
 # Book
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
-HowToLiveBetter
- |[eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter?)|<img src="https://img.shields.io/github/stars/eternity4719/howtolivebetter?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/eternity4719/howtolivebetter?style=for-the-badge&label=&" />|
+HowToLiveBetter|[eternity4719/howtolivebetter](https://github.com/eternity4719/howtolivebetter?)|<img src="https://img.shields.io/github/stars/eternity4719/howtolivebetter?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/eternity4719/howtolivebetter?style=for-the-badge&label=&" />|
 ChinaTextbook|[TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)|<img src="https://img.shields.io/github/stars/TapXWorld/ChinaTextbook?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TapXWorld/ChinaTextbook?style=for-the-badge&label=" />| 
 Tech Interview Handbook|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|<img src="https://img.shields.io/github/stars/yangshun/tech-interview-handbook?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/yangshun/tech-interview-handbook?style=for-the-badge&label=" />|
 自洽的程序员|[zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)|<img src="https://img.shields.io/github/stars/zhangchenchen/self-consistent-coder?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zhangchenchen/self-consistent-coder?style=for-the-badge&label=" />|
