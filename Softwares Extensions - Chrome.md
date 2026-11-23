@@ -267,6 +267,11 @@ Name| Address | Desc
 -|-|-|
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|
 
+# SMS
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Google QR SMS Helper |[havenicec/google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper?)|<img src="https://img.shields.io/github/stars/havenicec/google-qr-sms-helper?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/havenicec/google-qr-sms-helper?style=for-the-badge&label=&" />|
+
 
 # Tab
 Name| Address | Desc
