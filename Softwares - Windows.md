@@ -232,6 +232,12 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 ExHyperV  |[Justsenger/ExHyperV](https://github.com/Justsenger/ExHyperV)|<img src="https://img.shields.io/github/stars/Justsenger/ExHyperV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Justsenger/ExHyperV?style=for-the-badge&label=" />|
 
+# Inpit Method
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Qingjian |[qingjian-team/qingjian](https://github.com/qingjian-team/qingjian?)|<img src="https://img.shields.io/github/stars/qingjian-team/qingjian?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/qingjian-team/qingjian?style=for-the-badge&label=&" />|
+水杉输入法 |[metasequoiaime/msime-windows](https://github.com/metasequoiaime/msime-windows?)|<img src="https://img.shields.io/github/stars/metasequoiaime/msime-windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/metasequoiaime/msime-windows?style=for-the-badge&label=&" />|
+
 
 
 # Image Viewer
