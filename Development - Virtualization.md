@@ -73,6 +73,11 @@ LazyDocker|[github.com/jesseduffield/lazydocker](https://github.com/jesseduffiel
 
 
 # Docker UI
+
+Name| Address|Desc
+-|-|-|
+Docker Desktop|[www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)|
+
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Arcane |[getarcaneapp/arcane](https://github.com/getarcaneapp/arcane?)|<img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/getarcaneapp/arcane?style=for-the-badge&label=&" />|
