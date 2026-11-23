@@ -22,6 +22,11 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 agent-desktop|[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop?)|<img src="https://img.shields.io/github/stars/vercel-labs/agent-desktop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/vercel-labs/agent-desktop?style=for-the-badge&label=&" />|
 
+# Book
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Book To Skill |[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill?)|<img src="https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/virgiliojr94/book-to-skill?style=for-the-badge&label=&" />|
+
 
 # Code
 Name| Address | Star| Last Update|Desc
