@@ -40,14 +40,14 @@ MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|||
 # Docker Container
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge&label=" />|Automating Docker Container Base Image Updates
+Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge&label=" />|Automating Docker Container Base Image Updates
 docker-updater|[liquidguru/docker-updater](https://github.com/liquidguru/docker-updater)|<img src="https://img.shields.io/github/stars/liquidguru/docker-updater?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/liquidguru/docker-updater?style=for-the-badge&label=" />|
 
 
 # Docker Compose
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Dockge|[louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com/r/louislam/dockge](https://hub.docker.com/r/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge&label=" />|Docker Compose UI Manager
+Dockge|[louislam/dockge](https://github.com/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge&label=" />|Docker Compose UI Manager
 docker-autocompose|[Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)|<img src="https://img.shields.io/github/stars/Red5d/docker-autocompose?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Red5d/docker-autocompose?style=for-the-badge&label=" />|Generates a docker-compose.yaml
 Docker Compose Maker |[ajnart/dcm](https://github.com/ajnart/dcm)|<img src="https://img.shields.io/github/stars/ajnart/dcm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ajnart/dcm?style=for-the-badge&label=" />|
 
