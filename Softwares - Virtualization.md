@@ -11,6 +11,14 @@ DbGate  |[dbgate/dbgate](https://github.com/dbgate/dbgate/)|<img src="https://im
 CloudBeaver Community  |[dbeaver/cloudbeaver](https://github.com/ndbeaver/cloudbeaver/)|<img src="https://img.shields.io/github/stars/dbeaver/cloudbeaver?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dbeaver/cloudbeaver?style=for-the-badge&label=" />|
 Chat2DB  |[OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB/)|<img src="https://img.shields.io/github/stars/OtterMind/Chat2DB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OtterMind/Chat2DB?style=for-the-badge&label=" />| 
 
+# Git Client
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Gitea|[go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge&label=" />
+Soft Serve|[charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)|<img src="https://img.shields.io/github/stars/charmbracelet/soft-serve?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/charmbracelet/soft-serve?style=for-the-badge&label=" />
+Gogs |[gogs/gogs](https://github.com/gogs/gogs)|<img src="https://img.shields.io/github/stars/gogs/gogs?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gogs/gogs?style=for-the-badge&label=" />
+OneDev |[theonedev/onedev](https://github.com/theonedev/onedev)|<img src="https://img.shields.io/github/stars/theonedev/onedev?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/theonedev/onedev?style=for-the-badge&label=" />
+
 
 # MacOS
 Name| Address | Star| Last Update|Desc
