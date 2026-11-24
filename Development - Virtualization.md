@@ -71,7 +71,8 @@ Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/c
 Image address format: **[repository domain/][namespace/]image name[:tag]**
 Name| Address|Desc
 -|-|-|
-DockerHub|[hub.docker.com](https://hub.docker.com)|
+DockerHub|[hub.docker.com](https://hub.docker.com)| docker.io/library/
+
 
 Name| Address | Star| Last Update
 -|-|-|-|
