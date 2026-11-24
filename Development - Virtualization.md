@@ -24,12 +24,6 @@ Rainbond|[goodrain/rainbond](https://github.com/goodrain/rainbond)|<img src="htt
 
 
 
-# Android
-Name| Address | Star| Last Update
--|-|-|-|
-docker-android|[budtmo/docker-android](https://github.com/budtmo/docker-android)|<img src="https://img.shields.io/github/stars/budtmo/docker-android?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/budtmo/docker-android?style=for-the-badge&label=" />
-
-
 
 
 # API Manager
@@ -43,18 +37,11 @@ Name| Address | Pulls / Star | Last Update| Desc
 browserless|[browserless/browserless](https://github.com/browserless/browserless)|<img src="https://img.shields.io/github/stars/browserless/browserless?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/browserless/browserless?style=for-the-badge&label=" />|
 Neko|[m1k1o/neko](https://github.com/m1k1o/neko)|<img src="https://img.shields.io/github/stars/m1k1o/neko?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/m1k1o/neko?style=for-the-badge&label=" />|Chrome、Firefox、Tor Browser、Waterfox Etc
 
-# Database
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-Redis|[hub.docker.com/_/redis](https://hub.docker.com/_/redis)|||Cache
-MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|||
-
 # Docker Container
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge&label=" />|Automating Docker Container Base Image Updates
 docker-updater|[liquidguru/docker-updater](https://github.com/liquidguru/docker-updater)|<img src="https://img.shields.io/github/stars/liquidguru/docker-updater?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/liquidguru/docker-updater?style=for-the-badge&label=" />|
-
 
 # Docker Compose
 Name| Address | Star| Last Update|Desc
@@ -120,41 +107,9 @@ Name| Address | Star| Last Update|Desc
 Podman Desktop|[podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)|<img src="https://img.shields.io/github/stars/podman-desktop/podman-desktop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/podman-desktop/podman-desktop?style=for-the-badge&label=" />|
 
 
-
-# MacOS
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-Docker-OSX|[sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)|<img src="https://img.shields.io/github/stars/sickcodes/Docker-OSX?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sickcodes/Docker-OSX?style=for-the-badge&label=" />|Run macOS VM in a Docker
-
 # Monitor
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Beszel|[henrygd/beszel](https://github.com/henrygd/beszel)|<img src="https://img.shields.io/github/stars/henrygd/beszel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/henrygd/beszel?style=for-the-badge&label=" />|
 
 
-# NAS
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-NAS Tool|[NAStool/nas-tools](https://github.com/NAStool/nas-tools)|<img src="https://img.shields.io/github/stars/NAStool/nas-tools?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/NAStool/nas-tools?style=for-the-badge&label=" />|
-
-# Share Service
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-Samba|[dperson/samba](https://github.com/dperson/samba)|<img src="https://img.shields.io/github/stars/dperson/samba?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dperson/samba?style=for-the-badge&label=" />|SMB Protocol
-WebDAV|[BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav)|<img src="https://img.shields.io/github/stars/BytemarkHosting/docker-webdav?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/BytemarkHosting/docker-webdav?style=for-the-badge&label=" />|WebDAV  Protocol
-
-# Storage
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-AList|[AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge&label=" />|Storage Aggregation、WebDVA
-
-# Terminal
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-Filestash|[mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)|<img src="https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/mickael-kerjean/filestash?style=for-the-badge&label=" />|S3、FTP、WebDav
-
-
-# Virtual Machine
-Name| Address | Star| Last Update
--|-|-|-|
-Windows On Docker|[dockur/windows](https://github.com/dockur/windows)|<img src="https://img.shields.io/github/stars/dockur/windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dockur/windows?style=for-the-badge&label=" />
