@@ -1,7 +1,7 @@
 # A - Desktop
 Name| Address|Desc
 -|-|-|
-Docker Desktop|[www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)|moby
+Docker Desktop|[www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)|moby,k8s
 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
