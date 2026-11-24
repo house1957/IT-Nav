@@ -23,7 +23,7 @@ docker-android|[github.com/budtmo/docker-android](https://github.com/budtmo/dock
 # API Manager
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Swagger Editor|[swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)<br/>[hub.docker.com/r/swaggerapi/swagger-editor](https://hub.docker.com/r/swaggerapi/swagger-editor)|<img src="https://img.shields.io/github/stars/swagger-api/swagger-editor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/swagger-api/swagger-editor?style=for-the-badge&label=" />|
+Swagger Editor|[swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)|<img src="https://img.shields.io/github/stars/swagger-api/swagger-editor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/swagger-api/swagger-editor?style=for-the-badge&label=" />|
 
 # Browser
 Name| Address | Pulls / Star | Last Update| Desc
