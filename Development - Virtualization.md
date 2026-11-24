@@ -71,7 +71,11 @@ Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/c
 Image address format: **[repository domain/][namespace/]image name[:tag]**
 Name| Address|Desc
 -|-|-|
-DockerHub|[hub.docker.com](https://hub.docker.com)| docker.io/library/
+Docker Hub|[hub.docker.com](https://hub.docker.com)| docker.io/library/xxx
+K8S Hub|[registry.k8s.io](https://registry.k8s.io)| registry.k8s.io/xxx
+Microsoft Hub|[mcr.microsoft.com](https://mcr.microsoft.com)|mcr.microsoft.com/devcontainers/xxx
+Redhat Hub|[quay.io](https://quay.io/)|quay.io/xxx
+AWS Hub|[gallery.ecr.aws](https://gallery.ecr.aws/)|public.ecr.aws/docker/library/xxx
 
 
 Name| Address | Star| Last Update
