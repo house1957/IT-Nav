@@ -68,7 +68,7 @@ WUD|[getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud
 Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/crazymax/diun](https://hub.docker.com/r/crazymax/diun)|<img src="https://img.shields.io/github/stars/crazy-max/diun?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/crazy-max/diun?style=for-the-badge&label=" />|Image New Version Notification
 
 # Docker Hub
-Image address format: ** [repository domain/][namespace/]image name[:tag] **
+Image address format: **[repository domain/][namespace/]image name[:tag]**
 Name| Address|Desc
 -|-|-|
 DockerHub|[hub.docker.com](https://hub.docker.com)|
