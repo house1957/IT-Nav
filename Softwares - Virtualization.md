@@ -6,10 +6,10 @@ docker-android|[budtmo/docker-android](https://github.com/budtmo/docker-android)
 # Database Client
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Adminer |[nvrana/adminer](https://github.com/vrana/adminer/)|<img src="https://img.shields.io/github/stars/vrana/adminer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/vrana/adminer?style=for-the-badge&label=" />| 
-DbGate  |[ndbgate/dbgate](https://github.com/dbgate/dbgate/)|<img src="https://img.shields.io/github/stars/dbgate/dbgate?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dbgate/dbgate?style=for-the-badge&label=" />|
+Adminer |[vrana/adminer](https://github.com/vrana/adminer/)|<img src="https://img.shields.io/github/stars/vrana/adminer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/vrana/adminer?style=for-the-badge&label=" />| 
+DbGate  |[dbgate/dbgate](https://github.com/dbgate/dbgate/)|<img src="https://img.shields.io/github/stars/dbgate/dbgate?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dbgate/dbgate?style=for-the-badge&label=" />|
 CloudBeaver Community  |[dbeaver/cloudbeaver](https://github.com/ndbeaver/cloudbeaver/)|<img src="https://img.shields.io/github/stars/dbeaver/cloudbeaver?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dbeaver/cloudbeaver?style=for-the-badge&label=" />|
-Chat2DB  |[nOtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB/)|<img src="https://img.shields.io/github/stars/OtterMind/Chat2DB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OtterMind/Chat2DB?style=for-the-badge&label=" />| 
+Chat2DB  |[OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB/)|<img src="https://img.shields.io/github/stars/OtterMind/Chat2DB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OtterMind/Chat2DB?style=for-the-badge&label=" />| 
 
 
 # MacOS
