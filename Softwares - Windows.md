@@ -462,6 +462,8 @@ nano11   |[ntdevlabs/nano11](https://github.com/ntdevlabs/nano11)|<img src="http
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Windows Subsystem for Linux |[microsoft/WSL](https://github.com/microsoft/WSL?)|<img src="https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/WSL?style=for-the-badge&label=&" />| Install WSL command: wsl --install <br> Update WSL command: wsl --update
+WSL Manager |[bostrot/wslmanager](https://github.com/bostrot/wslmanager?)|<img src="https://img.shields.io/github/stars/bostrot/wslmanager?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/bostrot/wslmanager?style=for-the-badge&label=&" />|
+
 
 
 
