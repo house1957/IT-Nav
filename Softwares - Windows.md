@@ -228,6 +228,10 @@ Gitnuro   |[JetpackDuba/Gitnuro](https://github.com/JetpackDuba/Gitnuro)|<img sr
 
 
 # HyperV
+Name| Address | Desc
+-|-|-|
+Install Hyper-V|[Install Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-hyper-v?tabs=powershell&pivots=windows)| microsoft docs
+
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 ExHyperV  |[Justsenger/ExHyperV](https://github.com/Justsenger/ExHyperV)|<img src="https://img.shields.io/github/stars/Justsenger/ExHyperV?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Justsenger/ExHyperV?style=for-the-badge&label=" />|
