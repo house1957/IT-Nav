@@ -11,7 +11,10 @@ Podman Desktop|[podman-desktop/podman-desktop](https://github.com/podman-desktop
 # A - Platform
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
+BuildKit |[moby/buildkit](https://github.com/moby/buildkit?)|<img src="https://img.shields.io/github/stars/moby/buildkit?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moby/buildkit?style=for-the-badge&label=&" />|
 containerd |[containerd/containerd](https://github.com/containerd/containerd)|<img src="https://img.shields.io/github/stars/containerd/containerd?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containerd/containerd?style=for-the-badge&label=" />|
+Buildx |[docker/buildx](https://github.com/docker/buildx?)|<img src="https://img.shields.io/github/stars/docker/buildx?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/docker/buildx?style=for-the-badge&label=&" />|
+Docker CLI |[docker/cli](https://github.com/docker/cli?)|<img src="https://img.shields.io/github/stars/docker/cli?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/docker/cli?style=for-the-badge&label=&" />|
 Moby (Docker)|[moby/moby](https://github.com/moby/moby)|<img src="https://img.shields.io/github/stars/moby/moby?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moby/moby?style=for-the-badge&label=" />|moby includes containerd
 Docker Compose|[docker/compose](https://github.com/docker/compose)|<img src="https://img.shields.io/github/stars/docker/compose?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/docker/compose?style=for-the-badge&label=" />|
 Kubernetes |[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|<img src="https://img.shields.io/github/stars/kubernetes/kubernetes?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubernetes/kubernetes?style=for-the-badge&label=" />|K8S
