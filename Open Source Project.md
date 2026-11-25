@@ -637,6 +637,39 @@ Name| Address | Star| Last Update|Desc
 QtScrcpy|[barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)|<img src="https://img.shields.io/github/stars/barry-ran/QtScrcpy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/barry-ran/QtScrcpy?style=for-the-badge&label=" />|Projection Screen
 Screenity  |[alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)|<img src="https://img.shields.io/github/stars/alyssaxuu/screenity?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/alyssaxuu/screenity?style=for-the-badge&label=" />|Screen Recorder
 
+
+# SDK Version Manager
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+vfox|[version-fox/vfox](https://github.com/version-fox/vfox)|<img src="https://img.shields.io/github/stars/version-fox/vfox?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/version-fox/vfox?style=for-the-badge&label=" />| Java, Node.js, Golang, Python, Flutter, .NET & more
+asdf|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/asdf-vm/asdf?style=for-the-badge&label=" />|Ruby, Node.js, Elixir, Erlang & more
+proto |[moonrepo/proto](https://github.com/moonrepo/proto?)|<img src="https://img.shields.io/github/stars/moonrepo/proto?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moonrepo/proto?style=for-the-badge&label=&" />|Bun, Deno, Go, moon, Node, Python, Ruby, Rust & more
+
+
+.NET Version manager
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+Dots |[nor0x/Dots](https://github.com/nor0x/Dots?)|<img src="https://img.shields.io/github/stars/nor0x/Dots?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nor0x/Dots?style=for-the-badge&label=&" />|
+mise |[jdx/mise](https://github.com/jdx/mise?)|<img src="https://img.shields.io/github/stars/jdx/mise?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jdx/mise?style=for-the-badge&label=&" />|
+
+
+GoLang Version Manager
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+GVM |[moovweb/gvm](https://github.com/moovweb/gvm)|<img src="https://img.shields.io/github/stars/moovweb/gvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moovweb/gvm?style=for-the-badge&label=" />|
+gobrew |[kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew)|<img src="https://img.shields.io/github/stars/kevincobain2000/gobrew?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kevincobain2000/gobrew?style=for-the-badge&label=" />|
+
+
+NodeJS Version Manager
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+nvm|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|NodeJS Version Manager
+NVM for Windows|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge&label=" />|NodeJS Version Manager
+Fast Node Manager |[Schniz/fnm](https://github.com/Schniz/fnm)|<img src="https://img.shields.io/github/stars/Schniz/fnm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Schniz/fnm?style=for-the-badge&label=" />|NodeJS Version Manager
+Node Version Manager  |[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|NodeJS Version Manager
+
+
+
 # Security tools
 Web Vulnerability Detection
 Name| Address | Star| Last Update|Desc
@@ -767,28 +800,6 @@ LibreTV |[LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)|<img src="h
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Ventoy|[ventoy/Ventoy](https://github.com/ventoy/Ventoy)|<img src="https://img.shields.io/github/stars/ventoy/Ventoy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ventoy/Ventoy?style=for-the-badge&label=" />|
-
-
-# Version Manager
-Name| Respository Address | Star| Last Update|Desc
--|-|-|-|-|
-vfox|[version-fox/vfox](https://github.com/version-fox/vfox)|<img src="https://img.shields.io/github/stars/version-fox/vfox?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/version-fox/vfox?style=for-the-badge&label=" />| Java, Node.js, Golang, Python, Flutter, .NET & more
-asdf|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/asdf-vm/asdf?style=for-the-badge&label=" />|Ruby, Node.js, Elixir, Erlang & more
-
-GoLang Version Manager
-Name| Respository Address | Star| Last Update
--|-|-|-|
-GVM |[moovweb/gvm](https://github.com/moovweb/gvm)|<img src="https://img.shields.io/github/stars/moovweb/gvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moovweb/gvm?style=for-the-badge&label=" />|
-gobrew |[kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew)|<img src="https://img.shields.io/github/stars/kevincobain2000/gobrew?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kevincobain2000/gobrew?style=for-the-badge&label=" />|
-
-
-NodeJS Version Manager
-Name| Respository Address | Star| Last Update
--|-|-|-|
-nvm|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|NodeJS Version Manager
-NVM for Windows|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge&label=" />|NodeJS Version Manager
-Fast Node Manager |[Schniz/fnm](https://github.com/Schniz/fnm)|<img src="https://img.shields.io/github/stars/Schniz/fnm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Schniz/fnm?style=for-the-badge&label=" />|NodeJS Version Manager
-Node Version Manager  |[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|NodeJS Version Manager
 
 
 # Video Editing‌
