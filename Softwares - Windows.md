@@ -463,6 +463,10 @@ tiny11   |[ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)|
 nano11   |[ntdevlabs/nano11](https://github.com/ntdevlabs/nano11)|<img src="https://img.shields.io/github/stars/ntdevlabs/nano11?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ntdevlabs/nano11?style=for-the-badge&label=" />|Windows 11 image
 
 # WSL
+Name| Address | Desc
+-|-|-|
+Install WSL|[Install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)| microsoft docs
+
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Windows Subsystem for Linux |[microsoft/WSL](https://github.com/microsoft/WSL?)|<img src="https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/WSL?style=for-the-badge&label=&" />| wsl --install <br> wsl --update
