@@ -783,6 +783,8 @@ gobrew |[kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew)|<img
 
 
 NodeJS Version Manager
+Name| Respository Address | Star| Last Update
+-|-|-|-|
 nvm|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|NodeJS Version Manager
 NVM for Windows|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge&label=" />|NodeJS Version Manager
 Fast Node Manager |[Schniz/fnm](https://github.com/Schniz/fnm)|<img src="https://img.shields.io/github/stars/Schniz/fnm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Schniz/fnm?style=for-the-badge&label=" />|NodeJS Version Manager
