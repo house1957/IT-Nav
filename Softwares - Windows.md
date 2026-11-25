@@ -461,7 +461,7 @@ nano11   |[ntdevlabs/nano11](https://github.com/ntdevlabs/nano11)|<img src="http
 # WSL
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Windows Subsystem for Linux |[microsoft/WSL](https://github.com/microsoft/WSL?)|<img src="https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/WSL?style=for-the-badge&label=&" />| Install WSL command: wsl --install <br> Update WSL command: wsl --update
+Windows Subsystem for Linux |[microsoft/WSL](https://github.com/microsoft/WSL?)|<img src="https://img.shields.io/github/stars/microsoft/WSL?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/WSL?style=for-the-badge&label=&" />| wsl --install <br> wsl --update
 Windows Subsystem for Linux 2|[microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel?)|<img src="https://img.shields.io/github/stars/microsoft/WSL2-Linux-Kernel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/microsoft/WSL2-Linux-Kernel?style=for-the-badge&label=&" />|
 WSL Manager |[bostrot/wslmanager](https://github.com/bostrot/wslmanager?)|<img src="https://img.shields.io/github/stars/bostrot/wslmanager?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/bostrot/wslmanager?style=for-the-badge&label=&" />|
 wsldl|[yuk7/wsldl](https://github.com/yuk7/wsldl?)|<img src="https://img.shields.io/github/stars/yuk7/wsldl?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/yuk7/wsldl?style=for-the-badge&label=&" />|
