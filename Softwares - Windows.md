@@ -460,6 +460,7 @@ nano11   |[ntdevlabs/nano11](https://github.com/ntdevlabs/nano11)|<img src="http
 
 # WSL
 Install WSL command (PowerShell): wsl --install
+
 Update WSL command (PowerShell): wsl --update
 
 
