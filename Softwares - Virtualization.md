@@ -23,6 +23,12 @@ DbGate  |[dbgate/dbgate](https://github.com/dbgate/dbgate/)|<img src="https://im
 CloudBeaver Community  |[dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver/)|<img src="https://img.shields.io/github/stars/dbeaver/cloudbeaver?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dbeaver/cloudbeaver?style=for-the-badge&label=" />|
 Chat2DB  |[OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB/)|<img src="https://img.shields.io/github/stars/OtterMind/Chat2DB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OtterMind/Chat2DB?style=for-the-badge&label=" />| 
 
+MySQL Client
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+phpMyAdmin|[phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin?)|<img src="https://img.shields.io/github/stars/phpmyadmin/phpmyadmin?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/phpmyadmin/phpmyadmin?style=for-the-badge&label=&" />|
+
+
 PostgreSQL Client
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
