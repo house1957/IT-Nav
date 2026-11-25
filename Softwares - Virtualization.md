@@ -8,6 +8,7 @@ Name| Address | desc
 -|-|-|
 Redis|[hub.docker.com/_/redis](https://hub.docker.com/_/redis)|
 PostgreSQL|[hub.docker.com/_/postgres](https://hub.docker.com/_/postgres)|
+MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|
 Microsoft SQL Server|[hub.docker.com/r/microsoft/mssql-server](https://hub.docker.com/r/microsoft/mssql-server)|Ubuntu based images
 
 Name| Address | Star| Last Update|Desc
