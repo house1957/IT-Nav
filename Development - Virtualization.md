@@ -7,7 +7,7 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Podman Desktop|[podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop/)|<img src="https://img.shields.io/github/stars/podman-desktop/podman-desktop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/podman-desktop/podman-desktop?style=for-the-badge&label=" />|moby,compose
 Rancher Desktop|[rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop/)|<img src="https://img.shields.io/github/stars/rancher-sandbox/rancher-desktop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rancher-sandbox/rancher-desktop?style=for-the-badge&label=" />| containerd,moby,k3s(k8s)
-Rancher Desktop 2 |[rancher-sandbox/rancher-desktop-2](https://github.com/rancher-sandbox/rancher-desktop-2?)|<img src="https://img.shields.io/github/stars/rancher-sandbox/rancher-desktop-2?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rancher-sandbox/rancher-desktop-2?style=for-the-badge&label=&" />|containerd,k3s(k8s)
+Rancher Desktop 2 |[rancher-sandbox/rancher-desktop-2](https://github.com/rancher-sandbox/rancher-desktop-2?)|<img src="https://img.shields.io/github/stars/rancher-sandbox/rancher-desktop-2?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rancher-sandbox/rancher-desktop-2?style=for-the-badge&label=&" />|moby,k3s(k8s)
 
 # A - Platform
 Name| Address | Star| Last Update|Desc
