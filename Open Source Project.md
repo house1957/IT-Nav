@@ -396,13 +396,6 @@ Gitness|[harness/gitness](https://github.com/harness/gitness)|<img src="https://
 Gitea|[go-gitea/gitea](https://github.com/go-gitea/gitea)|<img src="https://img.shields.io/github/stars/go-gitea/gitea?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/go-gitea/gitea?style=for-the-badge&label=" />
 Walle Web|[meolu/walle-web](https://github.com/meolu/walle-web)|<img src="https://img.shields.io/github/stars/meolu/walle-web?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/meolu/walle-web?style=for-the-badge&label=" />
 
-# Go Version Manage
-Name| Respository Address | Star| Last Update
--|-|-|-|
-GVM |[moovweb/gvm](https://github.com/moovweb/gvm)|<img src="https://img.shields.io/github/stars/moovweb/gvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moovweb/gvm?style=for-the-badge&label=" />|
-gobrew |[kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew)|<img src="https://img.shields.io/github/stars/kevincobain2000/gobrew?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kevincobain2000/gobrew?style=for-the-badge&label=" />|
-
-
 # GraphQL
 Name| Respository Address | Star| Last Update
 -|-|-|-|
@@ -781,6 +774,13 @@ Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 vfox|[version-fox/vfox](https://github.com/version-fox/vfox)|<img src="https://img.shields.io/github/stars/version-fox/vfox?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/version-fox/vfox?style=for-the-badge&label=" />| Java, Node.js, Golang, Python, Flutter, .NET & more
 asdf|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shields.io/github/stars/asdf-vm/asdf?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/asdf-vm/asdf?style=for-the-badge&label=" />|Ruby, Node.js, Elixir, Erlang & more
+
+GoLang Version Manager
+Name| Respository Address | Star| Last Update
+-|-|-|-|
+GVM |[moovweb/gvm](https://github.com/moovweb/gvm)|<img src="https://img.shields.io/github/stars/moovweb/gvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moovweb/gvm?style=for-the-badge&label=" />|
+gobrew |[kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew)|<img src="https://img.shields.io/github/stars/kevincobain2000/gobrew?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kevincobain2000/gobrew?style=for-the-badge&label=" />|
+
 
 NodeJS Version Manager
 nvm|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|NodeJS Version Manager
