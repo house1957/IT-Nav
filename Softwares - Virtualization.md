@@ -14,9 +14,9 @@ Chat2DB  |[OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB/)|<img src="h
 PostgreSQL
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-pgAdmin 4|[pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4?)|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pgadmin-org/pgadmin4?style=for-the-badge&label=&" />|
-pgweb|[sosedoff/pgweb](https://github.com/sosedoff/pgweb?)|<img src="https://img.shields.io/github/stars/sosedoff/pgweb?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sosedoff/pgweb?style=for-the-badge&label=&" />|
-OmniDB|[OmniDB/OmniDB](https://github.com/OmniDB/OmniDB?)|<img src="https://img.shields.io/github/stars/OmniDB/OmniDB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OmniDB/OmniDB?style=for-the-badge&label=&" />|
+pgAdmin 4|[pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4?)|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pgadmin-org/pgadmin4?style=for-the-badge&label=&" />|PostgreSQL
+pgweb|[sosedoff/pgweb](https://github.com/sosedoff/pgweb?)|<img src="https://img.shields.io/github/stars/sosedoff/pgweb?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sosedoff/pgweb?style=for-the-badge&label=&" />|PostgreSQL
+OmniDB|[OmniDB/OmniDB](https://github.com/OmniDB/OmniDB?)|<img src="https://img.shields.io/github/stars/OmniDB/OmniDB?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OmniDB/OmniDB?style=for-the-badge&label=&" />|PostgreSQL
 
 
 Redis
