@@ -316,7 +316,8 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 PortKiller  |[productdevbook/port-killer](https://github.com/productdevbook/port-killer)|<img src="https://img.shields.io/github/stars/productdevbook/port-killer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/productdevbook/port-killer?style=for-the-badge&label=" />|port kill
 PortProxyGUI  |[zmjack/PortProxyGUI](https://github.com/zmjack/PortProxyGUI)|<img src="https://img.shields.io/github/stars/zmjack/PortProxyGUI?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zmjack/PortProxyGUI?style=for-the-badge&label=" />|port forwarding
-GO Simple Tunnel  |[go-gost/gost](https://github.com/go-gost/gost)|<img src="https://img.shields.io/github/stars/go-gost/gost?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/go-gost/gost?style=for-the-badge&label=" />|port forwarding
+gost  |[go-gost/gost](https://github.com/go-gost/gost)|<img src="https://img.shields.io/github/stars/go-gost/gost?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/go-gost/gost?style=for-the-badge&label=" />|port forwarding
+gost-ui|[go-gost/gost-ui](https://github.com/go-gost/gost-ui)|<img src="https://img.shields.io/github/stars/go-gost/gost-ui?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/go-gost/gost-ui?style=for-the-badge&label=" />|
 
 
 # Remote Desktop
