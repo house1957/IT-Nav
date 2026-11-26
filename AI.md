@@ -31,8 +31,8 @@ Book To Skill |[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book
 # Code
 Name| Address | Desc
 -|-|-|
-GitHub Copilot|[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)| VS Code Extension
-GitHub Copilot|[GitHub Copilot](https://visualstudio.microsoft.com/github-copilot/)| VS Extension
+GitHub Copilot|[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)| Visual Studio Code Extension
+GitHub Copilot|[GitHub Copilot](https://visualstudio.microsoft.com/github-copilot/)| Visual Studio Extension
 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
