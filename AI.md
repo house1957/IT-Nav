@@ -11,6 +11,12 @@ Name| Address | Star| Last Update|Desc
 Agency Agents |[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)|<img src="https://img.shields.io/github/stars/msitarzewski/agency-agents?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/msitarzewski/agency-agents?style=for-the-badge&label=" />|
 
 ## Coding
+Name| Address | Desc
+-|-|-|
+GitHub Copilot|[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)| Visual Studio Code Extension
+GitHub Copilot|[GitHub Copilot](https://visualstudio.microsoft.com/github-copilot/)| Visual Studio Extension
+
+
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 T3 Code|[pingdotgg/t3code](https://github.com/pingdotgg/t3code?)|<img src="https://img.shields.io/github/stars/pingdotgg/t3code?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pingdotgg/t3code?style=for-the-badge&label=&" />|
@@ -29,11 +35,6 @@ Book To Skill |[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book
 
 
 # Code
-Name| Address | Desc
--|-|-|
-GitHub Copilot|[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)| Visual Studio Code Extension
-GitHub Copilot|[GitHub Copilot](https://visualstudio.microsoft.com/github-copilot/)| Visual Studio Extension
-
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Trail Code |[trailhq/Trail-Code](https://github.com/trailhq/Trail-Code?)|<img src="https://img.shields.io/github/stars/trailhq/Trail-Code?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/trailhq/Trail-Code?style=for-the-badge&label=&" />|
